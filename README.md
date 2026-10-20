@@ -1,4 +1,4 @@
-# 卡卡IELTS · CarCar IELTS
+# CarCar IELTS
 
 把每个答案，放回原文。
 
