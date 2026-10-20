@@ -1,10 +1,10 @@
-# CarCar IELTS
+# CarCarIELTS
 
 把每个答案，放回原文。
 
 **65套原创雅思阅读练习（试用版）｜195篇文章｜2600个计分点**
 
-[下载离线版 ZIP](https://github.com/whyzdzj-wq/CarCar-IELTS/raw/refs/heads/main/CarCar-IELTS-Offline.zip) · [查看更新与测试报告](./TEST-REPORT.md) · [反馈问题](https://github.com/whyzdzj-wq/CarCar-IELTS/issues)
+[下载离线版 ZIP](https://github.com/whyzdzj-wq/CarCarIELTS/raw/refs/heads/main/CarCarIELTS-Offline.zip) · [查看更新与测试报告](./TEST-REPORT.md) · [反馈问题](https://github.com/whyzdzj-wq/CarCarIELTS/issues)
 
 ## 怎么使用
 
@@ -52,6 +52,6 @@
 
 ## 反馈与许可
 
-发现题目问题，请在[Issues](https://github.com/whyzdzj-wq/CarCar-IELTS/issues)写明套号、Passage、题号、疑问和对应原文；截图中请避免带入个人信息。
+发现题目问题，请在[Issues](https://github.com/whyzdzj-wq/CarCarIELTS/issues)写明套号、Passage、题号、疑问和对应原文；截图中请避免带入个人信息。
 
 本仓库仅发布网页构建产物与离线使用包，私有开发源码未公开。自有内容仅授权个人免费非商业学习，保留全部权利；详见[LICENSE.txt](./LICENSE.txt)和[COPYRIGHT.md](./COPYRIGHT.md)。第三方依赖遵循各自许可，见[THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md)。
